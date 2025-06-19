@@ -1,0 +1,14 @@
+{
+  "1234567890": {
+    "title": "Node.js in Action",
+    "author": "Mike Cantelon",
+    "reviews": {
+      "user1": "Great book on Node!"
+    }
+  },
+  "0987654321": {
+    "title": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "reviews": {}
+  }
+}
